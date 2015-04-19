@@ -1,7 +1,11 @@
-Teamspeak 3 Webinterface written by Psychokiller (Daniel P.)
+Teamspeak 3 Webinterface
 
-Dev-Website: http://ts3.cs-united.de
+Webinterface to manage TS3 Server
 
-This software uses the ts3admin.class.php from Par0noid (Stefan Z.)
 
-Dev-Website: http://ts3admin.info
+
+Formally Developed by written by Psychokiller (Daniel P.) (http://ts3.cs-united.de)
+
+
+This software uses following Third-Party Software:
+- ts3admin.class.php from Par0noid (Stefan Z.) (http://ts3admin.info)
