@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!--
 *Copyright (C) 2012-2013  Psychokiller
+*Copyright (c) 2015 -     gOOvER
 *
 *This program is free software; you can redistribute it and/or modify it under the terms of 
 *the GNU General Public License as published by the Free Software Foundation; either 
@@ -199,15 +200,6 @@ function confirmAction()
 	<tr>
 		<td colspan="2" class="footer">
 		{$footer}
-		powered by <a href='http://www.ts-rent.de'>www.TS-Rent.de</a><br />This interface contains images from <a href='http://www.teamspeak.com'>www.teamspeak.com</a>.
-		<br /><br />
-		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-		<input type="hidden" name="cmd" value="_s-xclick" />
-		<input type="hidden" name="hosted_button_id" value="DHMCG2WNSE62J" />
-		<input class="sbutton" type="image" src="https://www.paypal.com/de_DE/DE/i/btn/btn_donate_SM.gif" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal." />
-		<img alt="" border="0" src="https://www.paypal.com/de_DE/i/scr/pixel.gif" width="1" height="1" />
-		</form>
-		</td>
 	</tr>
 </table>
 <script language="JavaScript" type="text/javascript" src="gfx/js/wz_tooltip.js"></script>
